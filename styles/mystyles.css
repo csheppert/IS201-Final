@@ -1,4 +1,20 @@
 body {
-    background-color: aliceblue;
+    background-color: rgb(210, 216, 223);
 }
 
+p{
+    font-style: oblique;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+li{
+    font-weight: normal;
+    
+}
+
+.underline{
+    text-decoration: underline;
+}
